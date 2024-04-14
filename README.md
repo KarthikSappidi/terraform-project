@@ -20,7 +20,7 @@ This repository contains Terraform scripts to provision a basic AWS infrastructu
 
 **EC2 Instance**: Launches an EC2 instance with a specified AMI and instance type in a public subnet.
 
-**NAT Gateway*8: Creates a NAT Gateway with an Elastic IP for private subnet internet access.
+**NAT Gateway**: Creates a NAT Gateway with an Elastic IP for private subnet internet access.
 Usage
 
 **Clone the Repository**: Clone this repository to your local machine using git clone.
